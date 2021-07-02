@@ -1,0 +1,14 @@
+Mohon perhatikan langkah2 berikut :
+
+1. Copy Folder BMNKPB13 dan Psedia10 dari laptop lain ke folder C:
+2. instal installerDB_simaksedia2010L yg ada pada folder ini.
+3. akan muncul folder dbbmn10 pada folder C:Programfiles.
+4. Matikan Mysql dari menu services windows
+5. Rename folder dbbmn10 pada point 3 menjadi dbbmn10_kosong.
+6. Copy Folder dbbmn10 dari laptop lain ke folder C:/Programfiles (folder dbbmn10 yang sudah running simaknya, 
+bisa minta ke satker sebelah, jalankan kembali mysql)
+7. masuk ke folder dbbmn10 yang hasil copy dari laptop lain, jalankan file mysql-connector-odbc.
+8. masuk ke folder BMNKPB13, jalankan aplikasi simak, masuk dengan user dan passwor : admin (pastikan bisa login, 
+kalo ga bisa berarti ada kegagalan di mysql)
+9. buat referensi user satker, logout,,login sebagai satker, restore backup
+10. semoga berhasil

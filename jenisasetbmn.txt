@@ -1,0 +1,11 @@
+jenis aset bmn :
+1. Persediaan
+2. Aset Tetap
+   a. Tanah
+   b. Peralatan dan Mesin
+   c. Gedung dan Bangunan
+   d. Jalan, Irigasi dan Jaringan
+   e. Aset Tetap Lainnya
+   f. KDP
+   g. Aset Tak Berwujud
+3. Aset Lain-lain

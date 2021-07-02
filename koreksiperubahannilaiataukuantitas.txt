@@ -1,0 +1,3 @@
+koreksi perubahan nilai / kuantitas :
+berfungsi untuk melakukan perubahan luasan m2 atau
+berfungsi untuk melalukan perubahan nilai rupioah

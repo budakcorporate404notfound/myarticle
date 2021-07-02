@@ -1,0 +1,14 @@
+melakukan pemusnahan
+
+a. mengajukan permohonan penjualan 
+   - jika tanah, gedung dan bangunan, kendaraan bermotor, dan meubelair > 100 juta : ajukan permohonan penjualan ke kpknl
+   - jika meubelair < 100 juta : ajukan permohonan ke bagian penghapusan cq mahkamah agung ri
+b. mendapat persetujuan usulan penjualan
+c. melakukan penjualan dengan cara lelang di kpknl.
+   - percobaan lelang pertama gagal
+   - percobaan lelang kedua gagal
+   - percobaan lelang ketiga gagal
+d. lakukan pengajuan pemusnahan ke kpknl.
+e. buat berita acara pemusnahan
+f. lakukan pengajuan pengahapusan ke bagian penghapusan cq mahkamah agung ri
+g. mendapatkan sk penghapusan

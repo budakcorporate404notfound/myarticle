@@ -1,0 +1,10 @@
+status reval
+1 = persiapan
+2 = check fisik
+3 = update data
+4 = kirim lhi ke kpknl
+5 = penilaian selesai
+6 = kirim lhip ke kpknl
+7 = lhip selesai
+8 = kirim no bar ke kpknl
+9 = bar ip selesai

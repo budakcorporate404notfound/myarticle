@@ -1,0 +1,8 @@
+kode akun important
+
+
+53312 : Belanja Penambahan Nilai Gedung dan Bangunan 
+52311 : Belanja Biaya Pemeliharaan Gedung dan Bangunan 
+
+521111 : Belanja Keperluan Perkantoran
+521811 : Belanja Barang Persediaan Barang Konsumsi (*)

@@ -1,0 +1,6 @@
+jobdesk bagian penghapusan
+1. penghapusan [persetujuan penjualan dan persetujuan penghapusan]
+2. renovasi
+3. bongkaran
+4. sewa
+

@@ -1,0 +1,6 @@
+Koreksi Nilai Persediaan
+No Wilayah KodeSatker NamaSatker Nilai
+x  x       x          x          $
+
+jika terdapat koreksi nilai persediaan
+penyebab terbesarkan adanya saldo awal yang diinput di persediaan masuk >> saldo awal

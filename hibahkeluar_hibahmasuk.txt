@@ -1,0 +1,18 @@
+hibah keluar :
+
+1. satuan kerja pengirim [mengajukan permohonan hibah calon penerima] >> tingkat banding
+2. tingkat banding >> sekma
+3. sekma >> djkn
+4. djkn [mengeluarkan persetujuan hibah] >> sekma
+5. sekma >> tingkat banding
+6. tingkat >> satuan kerja pengirim 
+7. satuan kerja pengirim [membuat BAST Hibah]
+8. satuan kerja pengirim [memasukan kedalam aplikasi simak hibah keluar]
+
+hibah masuk :
+1. satuan kerja penerima [membuat BAST Hibah]
+2. satuan kerja penerima [meminta register hibah] >> kanwil djpb
+3. kanwil djpb [mengeluarkan register hibah] >> satuan kerja penerima
+4. satuan kerja penerima [meminta mphl dan sp3hl] >> kppn
+5. kppn [mengeluarkan mphl dan sp3hl] >> satuan kerja penerima
+6. satuan kerja penerima [menginputkan pada aplikasi simak hibah masuk]

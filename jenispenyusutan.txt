@@ -1,0 +1,6 @@
+3 macam penyusutan
+
+penyusutan pertama : dilakukan penyusutan pertama kali
+penyusutan reguler : dilakukan setiap semester 1 dan semester 2
+penyusutan transaksional : penyusutan yang selain dari penyusutan pertama dan reguler
+ 

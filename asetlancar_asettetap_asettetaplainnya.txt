@@ -1,0 +1,10 @@
+aset lancar 
+persediaan :  aset lancar dalam bentuk barang atau perlengkapan yang dimaksudkan untuk mendukung kegiatan operasional pemerintah, dan barang-barang yang dimaksudkan untuk dijual dan/ atau diserahkan dalam rangka pelayanan kepada masyarakat
+
+aset tetap
+aset berwujud yang mempunyai masa manfaat lebih dari 12 bulan untuk digunakan dalam kegiatan pemerintah atau dimanfaatkan oleh masyarakat umum.
+(tanah ; peralatan dan mesin ;  gedung dan bangunan ; jalan irigasi dan jaringan ; aset tetap lainnya; dan konstruksi dalam pengerjaan )
+
+aset tetap lainnya
+mencakup Aset Tetap yang tidak dapat dikelompokkan ke dalam kelompok Aset Tetap di atas, yang diperoleh dan dimanfaatkan untuk kegiatan operasional pemerintah dan dalam kondisi siap pakai.
+(Aset yang termasuk dalam kategori Aset Tetap Lainnya antara lain koleksi perpustakaan (buku dan non buku), barang bercorak kesenian/ kebudayaan, hewan, ikan, dan tanaman. Khusus untuk hewan, ikan dan tanaman, sesuai dengan kebijakan kapitalisasi aset tetap, disajikan secara ekstrakomptabel dan tidak disajikan di neraca.)

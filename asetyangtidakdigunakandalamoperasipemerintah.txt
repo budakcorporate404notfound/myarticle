@@ -1,0 +1,5 @@
+aset tetap yang tidak digunakan dalam operasi pemerintah : 
+
+Suatu aset tetap dieliminasi dari neraca ketika dilepaskan atau bila aset secara permanen dihentikan penggunaannya dan tidak ada manfaat ekonomi masa yang akan datang.
+Aset tetap yang secara permanen dihentikan atau dilepas harus dieliminasi dari Neraca dan diungkapkan dalam Catatan atas Laporan Keuangan.
+Aset tetap yang dihentikan dari penggunaan aktif pemerintah tidak memenuhi definisi aset tetap dan harus dipindahkan ke pos aset lainnya sesuai dengan nilai tercatatnya.

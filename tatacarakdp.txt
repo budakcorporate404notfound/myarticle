@@ -1,0 +1,10 @@
+tatacara kdp :
+1. inputkan di perolehan kdp
+2. inputkan di pengembangan kdp
+3. a. inputkan di penyelesaian pembangunan dengan kdp (untuk pengadaan baru)
+   b. inputkan di pengembangan langsung (untuk penambahan nilai gedung / renovasi gedung
+
+jika ada objek kdp yang sedang dilakukan revaluasi maka :
+1. jalankan langkah 1 dan 2 diatas
+2. kemudian selesaikan revaluasinya terlebih dahulu sampai di input di simak
+3. jalankan langkah 3 diatas untuk menjadi aset definitif

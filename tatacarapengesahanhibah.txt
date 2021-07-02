@@ -1,0 +1,6 @@
+tata cara pengesahan hibah
+
+satker >> mengajukan nomor register kepada kanwil djpb
+kanwil djpb >> menerbitkan nomor register kepada satker
+satket >> mengajukan nomor mphl ( memo pengesahan hibah langung ) kepada kppn
+kppn >> menerbitkan nomor mphl kepada satker

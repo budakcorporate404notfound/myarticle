@@ -1,0 +1,8 @@
+simak 2 saiba 2 erekon
+simak >> membuat file kirim ke saiba
+saiba >> melakukan pengosongan gl aset
+saiba >> melakukan pack data
+saiba >> melakukan posting bulan 12
+saiba >> melakukan penerimaan dari simak
+saiba >> melakukan posting bulan 12
+saiba >> membuat file kirim ke erekon

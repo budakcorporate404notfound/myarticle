@@ -1,0 +1,19 @@
+petunjuk penghapusan via aplikasi:
+
+1. inventarisasi barang yang rusak berat
+2. penghentian dari penggunaan
+3. usulan barang rusak berat ke pengelola
+4. penghapusan daftar barang rusak berat
+
+
+petunjuk pennghapusan via administrasi :
+1. inventarisasi barang yang rusak berat
+2. ajukan permohonan usulan penjualan / lelang : 
+   a. jika meubelair >> bagian penghapusan biro perlengkapan
+   b. jika memiliki bukti kepemilikan >> kpknl setempat
+3. lakukan penjualan / lelang
+4. mendapatkan risalah penjualan / lelang
+5. ajukan permohonan usulan penghapusan :
+   a. jika meubelair >> bagian penghapusan biro perlengkapan
+   b. jika memiliki bukti kepemilikan >> bagian penghapusan biro perlengkapan
+6. mendapatkan sk penghapusan

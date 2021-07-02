@@ -1,0 +1,17 @@
+Berikut penjelasan :
+
+1. ADK Tidak Standar = ADK yang diupload salah.
+Penyebab :
+ - ADK yang diupload bukan ADK kumulatif dan tidak berformat .zip;
+ - Periode ADK tidak sama dengan periode pilihan saat upload;
+ - Kode satker pada ADK tidak sama dengan kode satker User saat login pada web e-Rekon-LK;
+ - ADK rusak.
+2. ADK Periode Jan-Apr Tidak Diperkenankan = ADK yang diupload adalah ADK selain ADK kumulatif s.d Mei 2016. Solusi : Upload hanya ADK kumulatif s.d Mei 2016 saja (1 ADK).
+3. Upload = ADK yang diupload sudah benar. » Dalam tahap unggah ke database e-Rekon-LK.
+4. Proses SAI (Bawah) = ADK masuk pada antrian untuk tahap proses rekonsiliasi » Satker hanya bisa menunggu sampai status berubah, karena bulan Ramadhan memang harus banyak sabar. 🙂
+5. Cetak Excel Rekon = ADK masuk pada antrian untuk tahap proses pencetakan excel hasil rekonsiliasi. Jika sudah » status akan menjadi “Menunggu Persetujuan BAR”.
+6. Menunggu Persetujuan BAR = BAR dan Hasil Rekonsiliasi sudah terbentuk » Menunggu proses verifikasi oleh KPPN.
+7. Menunggu TTD KPA = BAR sudah diverifikasi dan disetujui oleh KPPN. » Login dengan user level KPA untuk melakukan persetujuan BAR. Selanjutnya status akan berubah menjadi Menunggu TTD Kasi Vera.
+8. Menunggu TTD Kasi Vera = Menunggu persetujuan dari Kepala Seksi Vera setelah diverifikasi terlebih dahulu.
+9. Proses Cetak LHR = Sistem sedang melakukan proses pembuatan report hasil rekonsiliasi. Jika sudah sampai tahap status ini artinya hasil rekonsiliasi telah benar dan disetujui oleh KPPN. Satker tinggal menunggu ke tahap BAR Siap Didownload.
+10. BAR Siap Didownload = BAR sudah diverifikasi dan disetujui oleh Kasi Vera, siap untuk di download.

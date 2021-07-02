@@ -1,0 +1,6 @@
+perencanaan aset :
+rkkl : peralatan dan mesin
+rkbmn : tanah, gedung bangunan, dan kendaraan dinas
+
+rkkl : satker >> tingkat banding
+rkbmn : satker >> siman

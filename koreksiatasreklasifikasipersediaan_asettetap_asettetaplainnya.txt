@@ -1,0 +1,10 @@
+Koreksi atas Reklasifikasi Persediaan/Aset Tetap/Aset Lainnya                          
+
+Penyebab :
+1. Bisa karena adanya reklas keluar / masuk yang ekstrakomptabel
+2. Bisa karena adanya penyusutan amortasi / transaksional saat reklas keluar
+
+cara pengecekan
+1. check di simak >> daftar transaksi bmn
+2. check di simak >> jurnal kirim simak2saiba
+3. check di simak >> laporan penyusutan

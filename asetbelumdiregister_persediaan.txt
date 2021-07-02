@@ -1,0 +1,11 @@
+aset belum diregister :
+
+jika persediaan - : 
+1. berarti ada spm / sp2d yang masih dalam proses 
+atau
+2. uang persediaan belum di general umum
+atau
+3. masih dalam proses general umum
+
+jika persediaan + :
+1. berarti ada barang persediaan yang belum diinputkan pada aplikasi persediaan

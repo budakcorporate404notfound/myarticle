@@ -1,0 +1,4 @@
+selisih sp2d
+
+check di daftar spm di simak, check apakah ada selisih atau tidak
+perbaiki sesuai dengan transaksi kesalahannya

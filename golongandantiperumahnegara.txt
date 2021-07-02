@@ -1,0 +1,11 @@
+golongan rumah negara
+1. Rumah Negara Golongan I adalah Rumah Negara yang dipergunakan bagi pemegang jabatan tertentu dan karena sifat jabatannya harus bertempat tinggal di rumah tersebut, serta hak penghuniannya terbatas selama pejabat yang bersangkutan masih memegang jabatan tertentu tersebut; 
+2. Rumah Negara Golongan II adalah Rumah Negara yang mempunyai hubungan yang tidak dapat dipisahkan dari suatu instansi dan hanya disediakan untuk didiami oleh Pegawai Negeri dan apabila telah berhenti atau pensiun rumah dikembalikan kepada Negara; 
+3. Rumah Negara Golongan III adalah Rumah Negara yang tidak termasuk Golongan I dan Golongan II yang dapat dijual kepada penghuninya
+
+tipe rumah negara
+Tipe A / 250 m2, Peruntukan Pejabat eselon I.
+Tipe B / 120 m2, Peruntukan Pejabat eselon II.
+Tipe C / 70 m2, Peruntukan Pejabat eselon III.
+Tipe D / 50 m2, Peruntukan Pejabat eselon IV.
+Tipe E / 36 m2, Peruntukan Staf.

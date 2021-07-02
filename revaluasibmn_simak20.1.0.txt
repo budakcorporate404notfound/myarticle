@@ -1,0 +1,28 @@
+Penjelasan dan tutorial Pencatatan Transaksi Koreksi Revaluasi BMN dengan Aplikasi Simak BMN versi 20.1.0
+terkait menu-menu Perbaikan/Koreksi Hasil Revaluasi BMN.
+
+Bagian 1, Penjelasan dan tutorial Update SIMAKv20.0.0 ke SIMAKv20.1.0
+Download SIMAKv20.1.0 di https://hai.kemenkeu.go.id/downloads/...
+
+Link Video Tutorial Koreksi Revaluasi BMN
+
+Koreksi Revaluasi BMN bagian 1 (Update SIMAKv20.0.0 ke SIMAKv20.1.0)
+https://youtu.be/Hl7B27-e5bk
+
+Koreksi Revaluasi BMN bagian 2 (cek ricek SIMAK vs SIMAN vs eREKON)
+https://youtu.be/t0DxhjkSH9c
+
+Koreksi Revaluasi BMN bagian 3 (Pembentukan ADK SIMAN)
+https://youtu.be/EGH1bvBM5mY
+
+Koreksi Revaluasi BMN bagian 4 (Penerimaan ADK SIMAN di SIMAK-BMN)
+https://youtu.be/dzPFi7Fcw_I
+
+Koreksi Revaluasi BMN bagian 5 (Troubleshooting Validasi Koreksi)
+https://youtu.be/gL1DI-qc6-c
+
+Koreksi Revaluasi BMN bagian 6 (Tindak Lanjut setelah menerima perbaikan)
+https://youtu.be/JBsw0HnvvFA
+
+Koreksi Revaluasi BMN bagian 7 (Tindak lanjut s.d. 90%, Kirim BAR-IP)
+https://youtu.be/oSLpWETq0Eo

@@ -1,0 +1,6 @@
+perubahan luasan di kib :
+perubahan luasan kib berpengaruh dengan nilai per m2
+jadi ketika ada perubahan luasan di kib
+pastikan nilai dari luasan berubah atau tidak
+jika ada perubahan, maka lakukan perubahan juga
+dimenu koreksi perubahan nilai / kuantitas
