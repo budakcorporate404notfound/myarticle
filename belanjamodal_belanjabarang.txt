@@ -7,3 +7,7 @@ Belanja Barang
 Pengeluaran untuk pembelian barang dan/atau jasa yang habis pakai untuk memproduksi barang dan/atau jasa yang dipasarkan 
 maupun yang tidak dipasarkan serta pengadaan barang yang dimaksudkan untuk diserahkan atau dijual kepada masyarakat 
 di luar kriteria belanja bantuan sosial serta belanja perjalanan.
+
+nilai kapitalisasi
+peralatan dan mesin >= 1 juta
+gedung dan bangunan >= 25 juta

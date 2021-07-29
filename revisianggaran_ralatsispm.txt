@@ -1,5 +1,50 @@
 revisi anggaran :
 dilakukan saat anggaran belum direalisasikan
 
+contoh kasus
+revisi akun 52 (belanja barang) -> 53 (belanja modal) sebelum anggaran direalisasikan
+atau
+revisi akun 53 (belanja modal) -> 52 (belanja barang) sebelum anggaran direalisasikan
+
+dikarenakan melihat kekurangan akun / kesalahan penempatan salah satu akun.
+
+--||--||--||--||--||--||--||--||--||--||--||--||--||--||--||--||--||--||--||--||--||--
+
 ralat spm :
 dilakukan saat anggaran sudah direalisasikan
+
+contoh kasus 1 :
+
+dik :
+sisa akun 52 = 20 juta
+sisa akun 53 = 0 juta
+
+permasalahan : 
+ingin melakukan ralat spm 52 senilai 10 juta ke spm 53
+
+jawaban :
+spm 52 dilakukan pengembalian dan pemulihan pagu.
+jadi sisa akun 52 = 20 juta + pemulihan pagu 10 juta
+total sia akun 52 menjadi 30 juta
+
+tetapi karena sisa akun 53 = 0 juta. 
+ralat spm  dari 52 ke 53 tidak dapat dilakukan
+
+contoh kasus 2 :
+
+dik :
+sisa akun 52 = 0 juta
+sisa akun 53 = 20 juta
+
+permasalahan : ingin melakukan ralat spm 52 senilai 10 juta ke spm 53
+
+jawaban :
+spm 52 dilakukan pengembalian dan pemulihan pagu.
+jadi sisa akun 52 = 0 juta + pemulihan pagu 10 juta
+total sia akun 52 menjadi 10 juta
+
+kemudian sisa akun 53 = 20 juta - ralat ke spm 53 sebesar 10 juta
+total sisa akun 53 menjadi 10 juta
+dan ralat spm dari 52 ke 53 dapat dilakukan
+
+ 
