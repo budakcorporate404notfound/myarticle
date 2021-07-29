@@ -1,7 +1,6 @@
 kode akun important
 
-
-53312 : Belanja Penambahan Nilai Gedung dan Bangunan 
+53312 : Belanja Penambahan Nilai Gedung dan Bangunan (harus diatas nilai kapitalisasi yaitu 25 juta)
 52311 : Belanja Biaya Pemeliharaan Gedung dan Bangunan 
 
 521111 : Belanja Keperluan Perkantoran

@@ -1,0 +1,4 @@
+penambahan nilai gedung / pengembangan langsung
+
+53312 : Belanja Penambahan Nilai Gedung dan Bangunan (harus diatas nilai kapitalisasi gb yaitu 25 juta)
+52311 : Belanja Biaya Pemeliharaan Gedung dan Bangunan 
