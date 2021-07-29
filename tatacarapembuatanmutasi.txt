@@ -1,0 +1,12 @@
+pembuatan mutasi
+
+1.erekon > laporan bmn > crbmn intrakomptabel 
+2. a. pilih juni untuk s1
+   b. pilih desember untuk s2
+3. a. pilih KL > MA untuk tingkat KL
+   b. pilih KL > MA && ES1 > BUA untuk tingkat BUA
+  
+#. pastikan sama antara crbmn intrakomptabel dengan laporan posisi bmn di neraca
+#. mencari saldo awal bisa check di laporan posisi bmn di neraca (saldo awal)
+#. mencari detail kdp bisa check di laporan kontruksi dalam pengerjaan (kdp)
+#. trn 204 nilai (+) dan (-) di pisah

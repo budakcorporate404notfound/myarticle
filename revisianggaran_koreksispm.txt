@@ -1,5 +1,5 @@
 revisi anggaran :
 dilakukan saat anggaran belum direalisasikan
 
-koreksi spm :
+ralat spm :
 dilakukan saat anggaran sudah direalisasikan

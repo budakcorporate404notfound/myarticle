@@ -1,0 +1,11 @@
+sewa : - satker ma menyewakan kepada pihak lain (tidak perlu dicatat pada simak)
+	   - satker ma menyewa kepada pihak lain (optional bisa dicatat di simak sebagai barang pihak ketiga)
+
+pinjam pakai : - satker ma meminjam dari pihak lain atau perseorangan (dicatat pada simak sebagai barang pihak ketiga)
+
+perbedaan sewa dan pinjam pakai
+
+sewa : terdapat penyetoran sejumlah uang untuk melakukan transaksi tersebut
+	   kontrak sewa paling lama +/- 5 tahun (setelah masa tersebut / sebelum masa kontrak berakhir dapat melakukan pengajuan kontrak baru jika ingin melakukan perpanjangan kontrak)
+pinjam pakai : tidak terdapat penyetoran sejumlah uang untuk melakukan transaksi tersebut
+               pinjam pakai dilakukan sesuai dengan berita acara dari kedua belah pihak yang terlibat atau lebih
