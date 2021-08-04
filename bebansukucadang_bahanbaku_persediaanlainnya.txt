@@ -1,0 +1,7 @@
+beban suku cadang || bahan baku || persediaan lainnya
+
+1. masuk user erekon akuntansi
+2. laporan keuangan >> neraca percobaan akrual
+3. download
+4. check akunnya
+5. rician >> rincian LK >> pilih akunnya yang sudah di checck pada neraca percobaan akrual

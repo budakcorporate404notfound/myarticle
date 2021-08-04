@@ -1,0 +1,16 @@
+mencari kode akun atb & ahg di erekon
+
+1. masuk user erekon akuntansi
+2. laporan keuangan >> neraca percobaan akrual
+3. download
+4. check akunnya
+5. rician >> rincian LK >> pilih akunnya yang sudah di checck pada neraca percobaan akrual
+
+kode akun Aset Henti Guna
+166112 Aset Tetap yang tidak digunakan dalam Operasi 
+166113 Aset Tak Berwujud yang tidak digunakan dalam Operasional
+
+atb aktif
+162151 Software
+162161 Lisensi
+162171 Hasil Kajian/Penelitian 
