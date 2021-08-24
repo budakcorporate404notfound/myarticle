@@ -1,0 +1,18 @@
+
+jika ada nilai kontrak. 
+misalkan 2jt yang melakukan pembelian dengan rincian
+- 1.2jt untuk pembelian kursi
+- 800rb untuk pembelian printer
+keduanya menggunakan akun 53 (belanja modal)
+
+contoh diatas akan terdapat masalah, karena pembelian printer menggunakan akun 53
+seharusnya akun 52 belanja barang dibawah nilai kapitalisasi
+
+sedangkan ralat spm akun 53 tidak bisa sebagian 800rb. tetapi menyeluruh 2jt
+----------------------------------------------------------------------------
+
+jadi yang tepat ialah
+jika ada nilai kontrak, sebaiknya dirinci dahulu pembelian itemnya
+apakah menggunakan akun 53 / menggunakan akun 52 / menggunakan akun keduannya.
+
+karena melakukan ralat spm tidak bisa sebagian saja. tetapi harus menyeluruh
