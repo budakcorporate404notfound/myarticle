@@ -1,0 +1,27 @@
+terkait sewa :
+Sewa adalah Pemanfaatan BMN/D oleh pihak lain dalam jangka waktu tertentu dan menerima imbalan uang tunai
+-sewa bisa dilakukan oleh perorangan, suatu organisasi, bumn/d, atau instansi lainnya
+-kontrak sewa maximal 5 th
+-pembayaran / penyetoran sewa dilakukan dibayar dimuka
+
+terkait pinjam pakai :
+Pinjam Pakai adalah penyerahan Penggunaan barang antara Pemerintah Pusat
+dan Pemerintah Daerah atau antar Pemerintah Daerah dalam jangka waktu
+tertentu tanpa menerima imbalan dan setelah jangka waktu tersebut berakhir
+diserahkan kembali kepada Pengelola Barang.
+-pemeliharaan barang yang dipinjam pakai ditanggung oleh si peminjam
+-pinjam pakai hanya antar instansi
+
+terkait Bangun Guna Serah atau Bangun Serah Guna :
+Bangun Guna Serah adalah Pemanfaatan BMN/D berupa tanah oleh pihak lain
+dengan cara mendirikan bangunan dan/atau sarana berikut fasilitasnya,
+kemudian didayagunakan oleh pihak lain tersebut dalam jangka waktu tertentu
+yang telah disepakati, untuk selanjutnya diserahkan kembali tanah beserta
+bangunan dan/atau sarana berikut fasilitasnya setelah berakhirnya jangka
+waktu
+
+terkait Bangun Serah Guna :
+Bangun Serah Guna adalah Pemanfaatan BMN/D berupa tanah oleh pihak lain
+dengan cara mendirikan bangunan dan/atau sarana berikut fasilitasnya, dan
+setelah selesai pembangunannya diserahkan untuk didayagunakan oleh pihak
+lain tersebut dalam jangka waktu tertentu yang disepakati
