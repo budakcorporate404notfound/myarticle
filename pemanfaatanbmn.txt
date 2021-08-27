@@ -11,6 +11,7 @@ Jangka waktu : Paling lama 5 (lima) tahun sejak dilakukan penandatanganan perjan
 Kontribusi : Nilai sewa.
 
 Contoh : Sewa ruangan ATM, sewa Aula Dhanapala Kementerian Keuangan, dll.
+*untuk BLU (Badan Layanan Umum) tidak harus menyetorkan hasil Sewa dan hasil sewanya dapat digunakan untuk operasional BLU itu sendiri
 
 2. PINJAM PAKAI
 
