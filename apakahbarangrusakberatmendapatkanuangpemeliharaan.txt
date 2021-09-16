@@ -2,11 +2,8 @@ apakah barang kondisi rusak berat mendapatkan uang pemeliharaan ?
 
 jawaban
 
-opsi pertama
-jika tujuannya untuk dilakukan perbaikan, bisa mendapatkan mekanisme melalui rkbmn
-setelah dapet belanja pemeliharaan/belanja modal dan sudah diperbaiki. bisa rubah kondisi ke rusak ringan atau baik
-yang pasti kalo diperbaiki pake anggaran belanja pemeliharaan, cuma boleh 25 juta
+rusak berat tidak mendapat uang pemeliharaan
 
-opsi kedua
-yang kedua, paling bagus dia mengajukan belanja modal untuk renovasi dan sementara tidak diberikan pemeliharaan
-kebijakan ada di RKBMN dan Biro Perencanaan
+opsi 1 : jangan dibuat rusak berat, lakukan perubahaan kondisi menjadi rusak ringan agar tetap mendapatkan uang pemeliharaan
+opsi 2 : jika ingin tetap dirusak beratkan, ajukan pada rkkl untuk akun penambahan nilai massa manfaat. dari akun tersebut nantinya
+         digunakan untuk perbaikan aset tersebut. dan setelah dilakukan perbaikan, jangan lupa dilakukan perubahan kondisi pada simak
