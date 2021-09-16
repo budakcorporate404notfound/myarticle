@@ -1,0 +1,11 @@
+jurnal hibah yang belum di sahkan di saiba
+
+hibah intra masuk ke jurnal penyesuaian
+kategori hibah langsung
+		akun D  >> xxx belum diregister
+		akun K  >> hibah langsung belum disahkan
+
+hibah ektra masuk ke jurnal umum
+		akun D >> beban aset ektrakomptabel xxx
+		akun K >> hibah langsung belum disahkan
+
