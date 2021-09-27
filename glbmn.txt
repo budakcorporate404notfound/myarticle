@@ -10,4 +10,4 @@ case 2
 [rph saiba][rph intra][rph kdp][rph ekstra][rph selisih]
 [1.000.000][500.000  ][       ][500.000   ][           ]
 
-terdapat kesalahan penggunaan akun 53 [belanja intra] untuk pembelian belanja ektra senilai 500.000
+terdapat kesalahan penggunaan akun 53 [belanja intra] untuk pembelian belanja ektra senilai 500.000, dan harus melakukan jurnal umum
