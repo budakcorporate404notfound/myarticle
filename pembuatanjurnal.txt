@@ -1,3 +1,6 @@
+membandingkan neraca simak unaudited dengan simak audited atau
+membandingkan neraca saiba unaudited dengan saiba audited
+
 akun kepala 1 letakan di neraca,
 akun kepala 4 & 5 letakan di LO,
 akun kepala 3 letakan di LPE
