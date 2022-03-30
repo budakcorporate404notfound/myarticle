@@ -4,3 +4,8 @@ pengecualian untuk hibah :
 hibah tahun anggaran yang lalu, jika kondisi hibah tersebut belum dicatat pada simak bmn
 tetap dicatat pada tahun anggaran berjalan pada menu hibah di simak bmn. 
 dan satker tetap melakukan register hibah ke kanwil djpb dan melakukan pendaftaran mphl ke kppn
+
+n.b
+hibah yang tgl bast nya (tahun berjalan - 1)
+tetapi diterima bast nya ( tahun berjalan )
+akan dipertanyakan oleh kanwil djpb kenapa mengajukannya tahun berjalan ?
