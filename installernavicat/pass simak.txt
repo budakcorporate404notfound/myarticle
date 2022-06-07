@@ -1,0 +1,9 @@
+driver		:	MySQL ODBC 3.51
+
+
+Server		:	localhost
+Database	:	dbbmn10
+User ID		:	sadmin
+Password	:	02F10nAfms23Faz30admin
+Port		:	3310
+
