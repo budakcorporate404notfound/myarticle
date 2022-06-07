@@ -1,0 +1,4 @@
+jika ingin merubah penyusatan di table m_susut
+
+jika jnssusut == 1 (untuk penyusutan aset)
+jika jnssusut == 2 (untuk penyusutan aset yang sudah tidak digunakan dalam pemerintahan)

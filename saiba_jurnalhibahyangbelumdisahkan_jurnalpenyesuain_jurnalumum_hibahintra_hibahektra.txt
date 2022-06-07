@@ -1,4 +1,4 @@
-jurnal hibah yang belum di sahkan di saiba
+1. jurnal hibah yang belum di sahkan di saiba
 
 hibah intra masuk ke jurnal penyesuaian
 kategori hibah langsung
@@ -8,4 +8,8 @@ kategori hibah langsung
 hibah ektra masuk ke jurnal umum
 		akun D >> beban aset ektrakomptabel xxx
 		akun K >> hibah langsung belum disahkan
+
+		
+2. hibah ketka sudah disahkan
+diinput pada daftar memo phlbjs dan persetujuan memo phlbjs
 
